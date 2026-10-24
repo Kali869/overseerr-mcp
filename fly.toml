@@ -1,4 +1,4 @@
-app = "your-app-name"
+app =  "overseerr-mcp"
 
 [build]
   image = "ghcr.io/jhomen368/overseerr-mcp:latest"
